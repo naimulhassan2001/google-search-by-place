@@ -24,7 +24,6 @@ class MakePayment {
                 Text(model.displayName.text,
                     style: const TextStyle(
                         fontSize: 24, fontWeight: FontWeight.bold)),
-
                 const SizedBox(
                   height: 20,
                 ),
